@@ -1,8 +1,3 @@
 # Praktikum-Search-Algorithm_Informed-Search
-Penjelasan Singkat Proyek
-Dalam proyek ini, kita mengimplementasikan tiga algoritma pencarian untuk menemukan jalur optimal dalam sebuah graf berbobot:
 
-Greedy Best-First Search (GBFS)
-A Tree Search*
-A Graph Search*
-Ketika algoritma ini digunakan untuk mencari jalur dari simpul awal ke simpul tujuan berdasarkan heuristik dan biaya tertentu.
+Proyek ini berfokus pada penerapan algoritma pencarian dalam graf untuk menemukan jalur terbaik dari satu titik ke titik lainnya. Algoritma yang digunakan adalah Greedy Best-First Search, A Tree Search, dan A Graph Search**. Graf direpresentasikan sebagai kumpulan simpul (node) yang saling terhubung dengan bobot (biaya) dan nilai heuristik (perkiraan jarak ke tujuan).
